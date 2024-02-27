@@ -10,15 +10,17 @@ namespace Welcome.Model
 {
     class User
     {
-        public string Name { set; get; }
-        public string Password { set; get; }
-        public UserRolesEnum Role { set; get; }
+        private string _fakNum { get; set; }
+        private string _name { set; get; }
+        private string _password { set; get; }
+        private UserRolesEnum _role { set; get; }
 
-        public User(string name, string pass, UserRolesEnum role)
+        public User(string fakNum, string name, string pass, UserRolesEnum role)
         {
-            Name = name;
-            Password = pass;
-            Role = role;
+            _fakNum = fakNum;
+            _name = name;
+            _password = pass;
+            _role = role;
         }
     }
 }
