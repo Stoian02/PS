@@ -3,7 +3,6 @@ D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\bin\Debug\net5.0\Welco
 D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\bin\Debug\net5.0\Welcome.runtimeconfig.json
 D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\bin\Debug\net5.0\Welcome.runtimeconfig.dev.json
 D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\bin\Debug\net5.0\Welcome.dll
-D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\bin\Debug\net5.0\ref\Welcome.dll
 D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\bin\Debug\net5.0\Welcome.pdb
 D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\obj\Debug\net5.0\Welcome.csproj.AssemblyReference.cache
 D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\obj\Debug\net5.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,5 @@ D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\obj\Debug\net5.0\Welco
 D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\obj\Debug\net5.0\ref\Welcome.dll
 D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\obj\Debug\net5.0\Welcome.pdb
 D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\obj\Debug\net5.0\Welcome.genruntimeconfig.cache
+D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\obj\Debug\net5.0\Welcome.sourcelink.json
+D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\obj\Debug\net5.0\refint\Welcome.dll

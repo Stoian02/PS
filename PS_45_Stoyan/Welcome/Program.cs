@@ -16,15 +16,14 @@ namespace Welcome
             Console.WriteLine("Hello World!");
             Console.WriteLine();
 
-            User user = new User("Stoyo", "parola", UserRolesEnum.STUDENT);
+            User user = new User("111111011", "Stoyo", "parola", "email@test.com", UserRolesEnum.STUDENT);
 
             UserViewModel userViewModel = new UserViewModel(user);
 
             UserView userView = new UserView(userViewModel);
 
             userView.Display();
-
-
+            userView.DisplayAll();
 
         }
     }
