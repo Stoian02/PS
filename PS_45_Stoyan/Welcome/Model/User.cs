@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using BCrypt.Net;
+
 using Welcome.Others;
 
 namespace Welcome.Model
@@ -12,7 +14,12 @@ namespace Welcome.Model
     {
         public string _fakNum { get; set; }
         public string _name { set; get; }
-        public string _password { set; get; }
+        private string _hashedPassword = string.Empty; 
+        public string _password 
+        {
+            set { _hashedPassword = BCrypt.Net.BCrypt.HashPassword(value); }
+            get { return _hashedPassword; }
+        }
         public string _email { get; set; }
         public UserRolesEnum _role { set; get; }
 
@@ -23,6 +30,11 @@ namespace Welcome.Model
             _password = pass;
             _email = email;
             _role = role;
+        }
+
+        public bool VerifyPassword(string password)
+        {
+            return BCrypt.Net.BCrypt.Verify(password, _hashedPassword);
         }
     }
 }

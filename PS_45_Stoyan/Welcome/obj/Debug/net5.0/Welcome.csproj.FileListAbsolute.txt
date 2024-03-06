@@ -15,3 +15,5 @@ D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\obj\Debug\net5.0\Welco
 D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\obj\Debug\net5.0\Welcome.genruntimeconfig.cache
 D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\obj\Debug\net5.0\Welcome.sourcelink.json
 D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\obj\Debug\net5.0\refint\Welcome.dll
+D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\Projects\TU-Sofia\6th-semestar\PS\PS_45_Stoyan\Welcome\obj\Debug\net5.0\Welcome.csproj.Up2Date

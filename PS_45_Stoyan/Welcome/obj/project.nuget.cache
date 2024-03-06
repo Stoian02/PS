@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NMOVjYn+7D5j1FjdJ92YRVuARZRQvNj1g9PtE+ETIZp/qwJim4KFtVkDSDN0vKsOlC+BG8zs3YAWcaLH7UeP3Q==",
+  "dgSpecHash": "NIOZnyoGOGUim/ZlVHpgDmuf1gT6qbIhYUlKf3c6/4O8IAmt0rBtFEDR1Me1kh9PlnaVqvSOXSNR3oIRLoFn6w==",
   "success": true,
   "projectFilePath": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS\\PS_45_Stoyan\\Welcome\\Welcome.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
